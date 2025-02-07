@@ -13,8 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Tomáš Smutek # author name
   bio: >- # tell to the world
-    Father and husband. Future switcher to IT as a python developer, I hope. You can find me on LinkedIn, Github or you can contact me via email.
-    test | test
+    Father and husband. Future switcher to IT as a **Python developer**, I hope. You can find me on [LinkedIn](seznam.cz), Github or you can contact me via email.
   username: heysmtk # general username
   github: heysmtk # github username
   linkedin: heysmtk # twitter username

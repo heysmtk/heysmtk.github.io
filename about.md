@@ -1,18 +1,19 @@
 ---
-title: Colophon
+title: About me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hello peeps, I'm future switcher to IT, living at Czechia. This blog for documentation about my programming journey, running on jekyll, hosting on github pages and using klisé theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hi, I’m Tomáš Smutek. I’m almost 30 years old, married, and a father of two beautiful children. I’ve decided to learn programming, focusing on [Python](https://www.python.org/) for web backend development. I’m learning on my own, mostly at night or whenever I have some extra time.
 
-If you have a question about him or else, just send a letter to him.
+My goal is to master technologies like [Django](https://www.djangoproject.com/), [FastAPI](https://fastapi.tiangolo.com/), and other tools for building web backends.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+On this small [blog](https://smtk.cz/archive/) of mine, I’ll occasionally share what I’ve learned or created—kind of like a dev blog.
 
-**may u needs ✨**
+**socials ✨**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- [LinkedIn](https://www.linkedin.com/in/heysmtk/)
+- [Github](https://github.com/heysmtk)
+- [E-mail](mailto:smtktom@gmail.com)

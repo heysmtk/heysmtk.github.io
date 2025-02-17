@@ -2,16 +2,15 @@
 title: About me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm future switcher to IT, living at Czechia. This blog for documentation about my programming journey, running on jekyll, hosting on github pages and using klisé theme.
+excerpt: Jsem budoucí switcher do IT, žijící v Česku. Píšu tento blog o mé cestě v programování, který běží na jekyllu, hostován na githubu a na Klisé šabloně.
 comments: false
 ---
 
-Hi, I’m Tomáš Smutek. I’m almost 30 years old, married, and a father of two beautiful children. I’ve decided to learn programming, focusing on **iOS development**. I’m learning on my own, mostly at night or whenever I have some extra time.
+Ahoj, jmenuji Tomáš Smutek. Je mi skoro 30 let, jsem ženatý a mám dvě krásné děti. Rozhodl jsem se naučit programovat se zaměřením na C# a .NET. Učím se sám, převážně v noci nebo kdykoli mám volnou chvíli.
 
-My goal is to master **Swift, SwiftUI** and other tools for building iOS apps. I’d love to work as an **iOS developer** in a company while also creating my own side projects and apps.
+Mým cílem je zvládnout **C# / .NET** (ASP.NET, WPF, Blazor) a další technologie pro vývoj aplikací. Časem bych chtěl přidat také **JavaScript, React a TypeScript**, abych měl širší záběr ve vývoji moderních aplikací. Rád bych pracoval jako **C# / .NET Developer** v IT firmě a zároveň tvořil vlastní side-projekty.
 
-On this small [blog](https://smtk.cz/archive/) of mine, I’ll occasionally share what I’ve learned or created—kind of like a dev blog.
-
+Na tomto malém [blogu](https://smtk.cz/archive/)) budu občas sdílet, co jsem se naučil nebo vytvořil – něco jako vývojářský blog.
 
 **socials ✨**
 

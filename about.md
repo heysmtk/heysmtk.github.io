@@ -10,7 +10,7 @@ Ahoj, jmenuji Tomáš Smutek. Je mi skoro 30 let, jsem ženatý a mám dvě krá
 
 Mým cílem je zvládnout **C# / .NET** (ASP.NET, WPF, Blazor) a další technologie pro vývoj aplikací. Časem bych chtěl přidat také **JavaScript, React a TypeScript**, abych měl širší záběr ve vývoji moderních aplikací. Rád bych pracoval jako **C# / .NET Developer** v IT firmě a zároveň tvořil vlastní side-projekty.
 
-Na tomto malém [blogu](https://smtk.cz/archive/)) budu občas sdílet, co jsem se naučil nebo vytvořil – něco jako vývojářský blog.
+Na tomto malém [blogu](https://smtk.cz/archive/) budu občas sdílet, co jsem se naučil nebo vytvořil – něco jako vývojářský blog.
 
 **socials ✨**
 

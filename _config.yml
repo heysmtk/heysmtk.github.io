@@ -3,7 +3,7 @@ title: SMTK # site title
 description: >- # site description
   He's documenting his journey of switching to IT, sharing what he's learned, the challenges he's faced, and his goals. 
   Follow his progress here.
-lang: en-US # default lang
+lang: cz-CS # default lang
 timezone: Europe/Prague # set your timezone
 image: # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/heysmtk/heysmtk.github.io # site repo [optional]
@@ -13,10 +13,10 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Tomáš Smutek # author name
   bio: >- # tell to the world
-    Father and husband. Future switcher to IT as a <b>iOS Engineer</b>, I hope. You can find me on 
+    Otec, manžel a samouk programátor. Píšu o své cestě / switchi do IT. Můžete mě najít na 
     <a href="https://x.com/heysmtk" target="_blank" rel="noopener"><b>X</b></a>,
     <a href="https://www.linkedin.com/in/heysmtk/" target="_blank" rel="noopener"><b>LinkedIn</b></a>,
-    <a href="https://github.com/heysmtk" target="_blank" rel="noopener"><b>Github</b></a> or you can contact me via 
+    <a href="https://github.com/heysmtk" target="_blank" rel="noopener"><b>Github</b></a> nebo mi napsat na 
     <a href="mailto:smtktom@gmail.com" target="_blank" rel="noopener"><b>email</b></a>.
   username: heysmtk # general username
   github: heysmtk # github username

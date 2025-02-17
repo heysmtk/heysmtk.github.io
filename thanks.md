@@ -1,13 +1,13 @@
 ---
-title: Acknowledgment
+title: Poděkování
 permalink: /thanks/
 layout: page
-excerpt: I’d like to thank everyone I’ve met, who has helped me and continues to help me on my journey to becoming a programmer.
+excerpt: Poděkování všem, kteří mě podporují a pomáhají.
 comments: false
 ---
 
-I’d like to thank everyone I’ve met, who has helped me and continues to help me on my journey to becoming a programmer. Starting with my amazing wife, who has the patience and understanding to support me.
+Chtěl bych poděkovat všem, které jsem potkal a kteří mi pomohli a stále pomáhají na mé cestě stát se programátorem. Počínaje mou úžasnou manželkou, která má trpělivost a pochopení a podporuje mě.
 
 <hr>
 
-I hope I won’t let any of you down 🙏🏻
+Doufám, že nikoho z vás nezklamu 🙏🏻

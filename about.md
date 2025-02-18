@@ -6,15 +6,15 @@ excerpt: Jsem budoucí switcher do IT, žijící v Česku. Píšu tento blog o m
 comments: false
 ---
 
-Ahoj, jmenuji Tomáš Smutek. Je mi skoro 30 let, jsem ženatý a mám dvě krásné děti. Rozhodl jsem se naučit programovat se zaměřením na C# a .NET. Učím se sám, převážně v noci nebo kdykoli mám volnou chvíli.
+Ahoj, jmenuji Tomáš Smutek. Je mi skoro 30 let, jsem ženatý a mám dvě krásné děti. Rozhodl jsem se naučit programovat se zaměřením na webové technologie. Učím se sám, převážně v noci nebo kdykoli mám volnou chvíli.
 
-Mým cílem je zvládnout **C# / .NET** (ASP.NET, WPF, Blazor) a další technologie pro vývoj aplikací. Časem bych chtěl přidat také **JavaScript, React a TypeScript**, abych měl širší záběr ve vývoji moderních aplikací. Rád bych pracoval jako **C# / .NET Developer** v IT firmě a zároveň tvořil vlastní side-projekty.
+Mým cílem je stát se webovým vývojářem v JavaScript stacku - **React, Typescript, Node.js (Express.js)** a tak dále. Na začátek jsem se rozhodl pro [**Scrimbu**](https://scrimba.com/home), která mě provede "celým" frontendím základním stackem - HTML, CSS, JavaScript a React (TS okrajově). Později bych se chtěl ponořit hlouběji do těchto technologií a zlepšovat svůj skill. Chtěl bych si najít první svou IT práci jako **Frontend developer**, rozvíjet své skilly a pokračovat dál v učení se dalších technologií (Node.js, Express.js, docker, kubernetes a další) a cílit k **fullstacku**.
 
 Na tomto malém [blogu](https://smtk.cz/archive/) budu občas sdílet, co jsem se naučil nebo vytvořil – něco jako vývojářský blog.
 
 **socials ✨**
 
-- [X / Twitter](https://x.com/heysmtk)
+- [Bluesky](https://bsky.app/profile/smtk.cz)
 - [LinkedIn](https://www.linkedin.com/in/heysmtk/)
 - [Github](https://github.com/heysmtk)
 - [E-mail](mailto:smtktom@gmail.com)
